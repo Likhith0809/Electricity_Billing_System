@@ -1,0 +1,20 @@
+### Project Description for Resume
+
+**Electricity Billing System**
+
+Developed a Java-based Electricity Billing System using Swing, providing a user-friendly GUI for managing customer accounts and billing operations. The application features a menu-driven interface with options for adding new customers, viewing customer details, and processing bill payments.
+
+**Key Features:**
+- **User Management:** Implemented functionalities for adding and managing customer information, including new customer registration and viewing customer details.
+- **Billing Calculations:** Enabled users to calculate and pay bills, streamlining the billing process.
+- **External Application Integration:** Integrated access to external applications like Notepad and Calculator, enhancing user convenience.
+- **Dynamic User Interface:** Designed a responsive and visually appealing GUI with a menu bar, icons, and keyboard shortcuts for improved usability.
+
+**Technologies Used:**
+- Java
+- Swing Framework
+- Event Handling
+- Image Handling
+
+**Impact:**
+This project not only improved my Java programming and GUI design skills but also provided a practical application for managing electricity billing, preparing me for future software development challenges.
